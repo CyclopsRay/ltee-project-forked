@@ -33,5 +33,6 @@ Source: https://contributors.md/
 
 - Aziz Khan
 - Haroun Adebakin
+- Cristina Correa Segade
 
 
